@@ -1,5 +1,5 @@
 # STM32 Projekte
-
+- Einzelprojekte aus dem Studium (1.- 4. Semester)
 - Programmierung des STM32-L42KC Micocontroller
 - in C und Assembly
 - HAL
